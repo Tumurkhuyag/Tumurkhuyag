@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 I'm a self-taught UX/UI designer & Front-end developer<br>🔬 10 years of software development<br>🌱 I'm currently learning Git
+👨🏻‍💻 I'm a self-taught UX/UI designer & Front-end developer<br>🔬 10 years of UX/UI design and 2 years of software development<br>🌱 I'm currently learning Git
 
 
 ## 🌐 Socials:
